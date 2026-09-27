@@ -6,7 +6,7 @@ Township is a city building and farming simulator where you grow crops, produce 
 
 Township also rewards planning. A balanced Township town layout keeps farms close to factories, factories close to shops, and shops close to the residents who need them. Players who follow a Township farming guide learn to rotate crops, time harvests, and avoid empty fields. Township building upgrade decisions matter too, because every new level unlocks products, expands storage, and opens fresh goals. Whether you play in short sessions or long evenings, Township stays welcoming and predictable.
 
-[![GET Township](https://img.shields.io/badge/GET%20%E2%80%94%20Township-0078D6?style=for-the-badge&logoColor=white)](https://township-city-builder.github.io/.github/township-city-builder)
+[![GET Township](https://img.shields.io/badge/GET%20%E2%80%94%20Township-0078D6?style=for-the-badge&logoColor=white)](https://township-city-builder.github.io/.github/township-city)
 
 ---
 
